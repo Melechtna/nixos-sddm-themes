@@ -3,7 +3,7 @@
     pname = "sddm-sugar-candy-theme";
     version = "1.0";
     src = fetchurl {
-    url = "https://raw.githubusercontent.com/Melechtna/nixos-sddm-themes/Sugar-Candy-Background/sugar-candy.tar.gz";
+    url = "https://github.com/Melechtna/nixos-sddm-themes/raw/SugarCandy-Background/sugar-candy.tar.gz";
     sha256 = "1a8690fbb00e2183fdc99ce3d38d93fc4c0c8e1e23deb6f678294b418c70e486";
   };
 
